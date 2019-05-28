@@ -206,12 +206,18 @@ li{
 }
 footer{
 	background-color: #800000;
-	background-image: url(../img/bottom.png);
 	height: 150px;
 	width: 1200px;
 	margin: 0 auto;
 }
+.bans{
 
+}
+
+.bans1{
+    float: left;
+    margin: 45px 5px;
+}
 
 .menu{
 	position: absolute;
@@ -293,11 +299,6 @@ footer{
     border-bottom:none;
 }
  
-.menu li .submenu li a{
-    padding:5px 12px;
-    color:#fff;
-    display:block;
-}
  
 .menu li .submenu li:hover{
     background-color: #940000;
@@ -348,11 +349,6 @@ footer{
     border-bottom:none;
 }
  
-.menu li .submenu1 li a{
-    padding:5px 12px;
-    color:#fff;
-    display:block;
-}
  
 .menu li .submenu1 li:hover{
     background-color: #940000;
